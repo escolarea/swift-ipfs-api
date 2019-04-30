@@ -1,2 +1,2 @@
-github "escolarea/SwiftMultiaddr"
+github "escolarea/SwiftMultiaddr" "master"
 #git "file:///Users/teo/source/Apple/macOS/Libraries/SwiftMultiaddr" "test"
